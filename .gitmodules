@@ -1,0 +1,6 @@
+[submodule "wave-animation"]
+	path = wave-animation
+	url = https://github.com/rudresh051/css-animation-1.git
+[submodule "perished-leaf"]
+	path = perished-leaf
+	url = https://github.com/rudresh051/css-animation-1.git
